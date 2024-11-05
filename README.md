@@ -15,37 +15,37 @@ The cards provide a quick overview of key metrics, including the Total Customers
 - <b>Clustered Column Chart</b>  <br/>
 This chart shows Total Customers by Year and Active Category (active vs. inactive). It enables users to see trends over time, observing changes in active versus inactive customer counts annually. This insight helps the bank understand patterns in customer engagement year by year.
 <br/>
-<img src="https://i.imgur.com/OYULPJ5.png" height="30%" width="30%" alt="Visualization 2"/>
+<img src="https://i.imgur.com/OYULPJ5.png" height="50%" width="50%" alt="Visualization 2"/>
 <br />
 
 - <b>Donut Chart</b>  <br/>
 This visualization breaks down Exit Customers by Gender. The donut chart offers a clear view of whether there is a gender-based trend in customer exits, helping to identify if specific demographics may be more prone to leaving.
 <br/>
-<img src="https://i.imgur.com/SiLxzum.png" height="30%" width="30%" alt="Visualization 3"/>
+<img src="https://i.imgur.com/SiLxzum.png" height="50%" width="50%" alt="Visualization 3"/>
 <br />
 
 - <b>Pie Chart</b>  <br/>
 Displaying Exit Customers by Category, the pie chart segments exit trends into different categories (e.g., account type, service usage). This helps pinpoint which customer categories are more likely to churn, aiding in targeted retention efforts for specific groups.
 <br/>
-<img src="https://i.imgur.com/sMS25IE.png" height="80%" width="80%" alt="Visualization 4"/>
+<img src="https://i.imgur.com/sMS25IE.png" height="50%" width="50%" alt="Visualization 4"/>
 <br />
 
 - <b>Clustered Bar Chart</b>  <br/>
 This chart shows Exit Customers by Credit Score. It helps visualize if certain credit score ranges correlate with higher exit rates, allowing the bank to address retention strategies based on customers’ creditworthiness or financial behavior.
 <br/>
-<img src="https://i.imgur.com/ndXhsoF.jpeg" height="80%" width="80%" alt="Visualization 5"/>
+<img src="https://i.imgur.com/yD3CHAx.png" height="50%" width="50%" alt="Visualization 5"/>
 <br />
 
 - <b>Line Chart</b>  <br/>
 The line chart compares Exit Customers and Previous Month Exit Customers by month. This trend analysis offers insights into monthly fluctuations, helping the bank track seasonal or event-driven spikes in exits to preemptively implement retention measures during high-churn periods.
 <br/>
-<img src="https://i.imgur.com/ndXhsoF.jpeg" height="80%" width="80%" alt="Visualization 5"/>
+<img src="https://i.imgur.com/Pda1Q4o.png" height="50%" width="60%" alt="Visualization 6"/>
 <br />
 
 - <b>Smart Narrative </b>  <br/>
 The Smart Narrative tool generates a text summary of key insights directly within the dashboard. It provides automated explanations and observations of the data, such as trends, outliers, and drivers behind the visuals, making it easier for stakeholders to interpret complex metrics without needing to delve into each visualization.
 <br/>
-<img src="https://i.imgur.com/ndXhsoF.jpeg" height="80%" width="80%" alt="Visualization 5"/>
+<img src="https://i.imgur.com/Ib4xWBo.png" height="80%" width="80%" alt="Visualization 7"/>
 <br />
 
 <h2>Dashboard walk-through:</h2>

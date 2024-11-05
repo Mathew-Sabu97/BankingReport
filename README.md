@@ -45,7 +45,7 @@ The line chart compares Exit Customers and Previous Month Exit Customers by mont
 - <b>Smart Narrative </b>  <br/>
 The Smart Narrative tool generates a text summary of key insights directly within the dashboard. It provides automated explanations and observations of the data, such as trends, outliers, and drivers behind the visuals, making it easier for stakeholders to interpret complex metrics without needing to delve into each visualization.
 <br/>
-<img src="https://i.imgur.com/Ib4xWBo.png" height="80%" width="80%" alt="Visualization 7"/>
+<img src="https://i.imgur.com/Ib4xWBo.png" height="50%" width="60%" alt="Visualization 7"/>
 <br />
 
 <h2>Dashboard walk-through:</h2>
@@ -67,26 +67,8 @@ The dashboard is designed for interactive analysis, allowing users to filter dat
 The dashboard’s interactive features ensure that users receive a comprehensive, tailored analysis based on their selections, which helps in drawing actionable insights and developing customer-centric strategies.
 <br/>
 <p align="center">
-For Year: 2023 and Gross Profit selected  <br/>
-<img src="https://i.imgur.com/doNyPnK.jpeg" height="80%" width="80%" alt="Dashboard 1"/>
-<br />
-<br />
-For Year: 2023 and Quantity selected <br/>
-<img src="https://i.imgur.com/AjgeT66.jpeg" height="80%" width="80%" alt="Dashboard 2"/>
-<br />
-<br />
-For Year: 2024 and Sales selected <br/>
-<img src="https://i.imgur.com/1VrSpZv.jpeg" height="80%" width="80%" alt="Dashboard 3"/>
+For Year: 2017 and 2018 and Customer left by category Selected <br/>
+<img src="https://i.imgur.com/ZR9Xj4b.png" height="80%" width="80%" alt="Dashboard 1"/>
 <br />
 <br />
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>

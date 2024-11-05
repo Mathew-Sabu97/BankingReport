@@ -68,7 +68,7 @@ The dashboard’s interactive features ensure that users receive a comprehensive
 <br/>
 <p align="center">
 For Year: 2017 and 2018 and Customer left by category Selected <br/>
-<img src="https://i.imgur.com/ZR9Xj4b.png" height="80%" width="80%" alt="Dashboard 1"/>
+<img src="https://i.imgur.com/lgLcLaO.png" height="80%" width="80%" alt="Dashboard 1"/>
 <br />
 <br />
 </p>

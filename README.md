@@ -15,19 +15,19 @@ The cards provide a quick overview of key metrics, including the Total Customers
 - <b>Clustered Column Chart</b>  <br/>
 This chart shows Total Customers by Year and Active Category (active vs. inactive). It enables users to see trends over time, observing changes in active versus inactive customer counts annually. This insight helps the bank understand patterns in customer engagement year by year.
 <br/>
-<img src="https://i.imgur.com/f4nDBNc.jpeg" height="30%" width="30%" alt="Visualization 2"/>
+<img src="https://i.imgur.com/OYULPJ5.png" height="30%" width="30%" alt="Visualization 2"/>
 <br />
 
 - <b>Donut Chart</b>  <br/>
 This visualization breaks down Exit Customers by Gender. The donut chart offers a clear view of whether there is a gender-based trend in customer exits, helping to identify if specific demographics may be more prone to leaving.
 <br/>
-<img src="https://i.imgur.com/Zmhf6Ms.jpeg" height="30%" width="30%" alt="Visualization 3"/>
+<img src="https://i.imgur.com/SiLxzum.png" height="30%" width="30%" alt="Visualization 3"/>
 <br />
 
 - <b>Pie Chart</b>  <br/>
 Displaying Exit Customers by Category, the pie chart segments exit trends into different categories (e.g., account type, service usage). This helps pinpoint which customer categories are more likely to churn, aiding in targeted retention efforts for specific groups.
 <br/>
-<img src="https://i.imgur.com/vedVGdZ.jpeg" height="80%" width="80%" alt="Visualization 4"/>
+<img src="https://i.imgur.com/sMS25IE.png" height="80%" width="80%" alt="Visualization 4"/>
 <br />
 
 - <b>Clustered Bar Chart</b>  <br/>
